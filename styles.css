@@ -1,0 +1,36 @@
+body{
+      background-color:black;
+      color:white;
+    }
+    header, footer{
+      color: #00e0ff;
+      background-color:#1e1e1e;
+      text-align:center;
+      padding:5px;
+    }
+    .home-img{
+      border-radius:70%;
+      width:210px;
+      margin:0 auto;
+      height:200px;
+      display: block;
+      max-width:100%;
+    }
+   .home-section{
+      width: 80%;
+      background-color: #1e1e1e;
+      color:white;
+      padding: 8px 8px;
+      border-radius: 7px;
+      margin:0 auto;
+      text-align:center;
+    }
+    .links{
+      color:white;
+      margin:4px;
+      padding: 2px 2px;
+    }
+    .about-section{
+      margin:10px;
+      padding:10px;
+    }
